@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>理想丰满</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://hellokuku.com/</link>
+    <atom:link href="http://hellokuku.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 02 Jul 2015 20:34:01 +0800</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2015 20:34:01 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>6月杂谈</title>
+        <description>&lt;p&gt;2015-07-01 03:44:51&lt;/p&gt;
+
+&lt;p&gt;来魔都已经一个月了，自从搬家之后，睡眠质量一直都不好，每天凌晨三点便醒了过来，有时候甚至不到三点，今天便是。好在也没有继续睡(是好吗?)，都会起来到外面走走，倒是发现了个晨跑的好点——黄兴公园，附近也能吃早饭，真好。&lt;/p&gt;
+
+&lt;p&gt;6月27日中午搬家，本想写一些的，也不知道自己在忙什么，就给忘记了，昨天给家里打电话，也不知道说些什么，没几分钟就挂了，我是不是又陷入了困境？6月说好的写项目&amp;amp;刷书，真是堪忧，也知道不能再这样犯拖延症了，要多想想来魔都是为了什么？&lt;/p&gt;
+
+&lt;p&gt;其实六月还有一个挺值得提起的人——CQL，认识的缘由真是让人不由感叹，真是太有缘了。起初是她找校友也是我朋友ZJ玩，ZJ便问我在义乌吗，可能也向CQL提起了我，后来的另一个饭局，她向我高中的同学WYF也提起，没想到居然也认识，于是便加了微信。&lt;/p&gt;
+
+&lt;p&gt;之后的每天几乎是整夜的聊，和我倾诉自己的生活情感八卦云云，我还是很享受这个过程，由于聊得很晚，几乎都过1点，后来就彻底都扰乱了生物钟，睡不着于是便去翻她的人人微博朋友圈。以前看到过一段话，虽然我们可能没有到这个程度，觉得十分贴切:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h5 id=&quot;section&quot;&gt;总有一天，会有一个人，看你写过的所有状态，读完写的所有微博，看你从小到大的所有照片，甚至去别的地方寻找关于你的信息，试着听你听的歌，走你走过的地方，看你喜欢看的书，品尝你总是大呼好吃的东西……只是想弥补上，你的青春。&lt;/h5&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;可能是我们俩都寂寞了，也可能是我们对现实的无感失望和同对理想生活的期待，于是乎十分有话题聊，就像是热恋中的小情侣。相识半个月，之后也从我说自己要好好复习了这话中结束了，后知后觉，她起码是一个挺值得交的朋友，但不知这份暧昧关系是不是“病态”的呢？&lt;/p&gt;
+
+&lt;p&gt;在什么时间做该做什么事情，要有轻重缓急，不然你会错过更多的。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jul 2015 11:44:51 +0800</pubDate>
+        <link>http://hellokuku.com/life/2015/07/01/6%E6%9C%88%E6%9D%82%E8%B0%88.html</link>
+        <guid isPermaLink="true">http://hellokuku.com/life/2015/07/01/6%E6%9C%88%E6%9D%82%E8%B0%88.html</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+      <item>
+        <title>Git语法</title>
+        <description>&lt;p&gt;1.Git语法&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.[LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
+
+	1.Introduction Sequence
+	2.Ramping Up
+	3.Moving Work Around
+	4.A Mixed Bag
+	5.Advance Topics
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;2.Pycharm&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1	
+	1.1Pyhton版本选择
+		打开 File -&amp;gt; Settings -&amp;gt; Project Settings -&amp;gt; Python			Intercepter -&amp;gt; Python Intercepters 在 Paths 选项卡的列表中添加自定义的导入路径即可。
+	1.2[pycharm 如何添加自定义库路径?](https://www.v2ex.com/t/183690)	
+
+2.Pycharm Docs &amp;amp; Demos ***important
+	[Docs&amp;amp;Demo](https://www.jetbrains.com/pycharm/documentation/)
+3.Pycoder Weekly
+	[Pycodeer-Weekly](http://pycoders.com/)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Sun, 28 Jun 2015 00:00:00 +0800</pubDate>
+        <link>http://hellokuku.com/2015/06/28/Git%E8%AF%AD%E6%B3%95.html</link>
+        <guid isPermaLink="true">http://hellokuku.com/2015/06/28/Git%E8%AF%AD%E6%B3%95.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>30天计划</title>
+        <description>&lt;p&gt;7.1-8.1 需要完成&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Linux
+	鸟哥的Linux私房菜1/2
+HTTP
+	《HTTP权威指南》 
+HTML/HTML5
+	《》
+CSS
+	《》
+JS
+	《》
+Nginx
+	optional
+---
+
+[Python框架-Zhihu](http://www.zhihu.com/topic/19606083)
+Django
+	[Zhihu](http://www.zhihu.com/topic/19572108)
+	[Github](https://github.com/django/django)
+	[Django-Official](https://www.djangoproject.com/)
+	[Django-Doc-en](https://docs.djangoproject.com/en/1.8/topics/pagination/)
+Flask
+	[Zhihu](http://www.zhihu.com/topic/19590215)
+	[Github](https://github.com/mitsuhiko/flask)
+	[Flask-Official](http://flask.pocoo.org/)
+	[Flask-Docs-cn](http://docs.jinkan.org/docs/flask/)
+Scrapy
+	[Zhihu](http://www.zhihu.com/topic/19950086)
+	[Github](https://github.com/scrapy/scrapy)
+	[Scrapy-Official](http://scrapy.org/)
+	[Scrapy-Doc-cn](https://scrapy-chs.readthedocs.org/zh_CN/0.24/)
+	
+	#issue:
+		[link](http://stackoverflow.com/questions/30964836/scrapy-throws-importerror-cannot-import-name-xmlrpc-client)
+		when try to import scrapy...failed..
+		Scrapy throws ImportError: cannot import name xmlrpc_client
+		solution:
+			sudo rm -rf /Library/Python/2.7/site-packages/six*
+			sudo rm -rf /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/six*
+			sudo pip install six
+		But try &#39;sudo pip install six --upgrade&#39; failed...
+			
+MySQL
+	[Zhihu](http://www.zhihu.com/topic/19554128)
+	[Github](https://github.com/mysql)
+	[MySQL-Official](http://dev.mysql.com/doc/)
+	[MySQL-Doc-cn](http://doc.mysql.cn/)
+Git
+	[Git-explore](https://github.com/explore)
+	[Git-Doc-cn](https://git-scm.com/book/zh/v2)
+				(https://git-scm.com/book/zh/v1)
+	 
+	 install Git via source code
+	 $ tar -zxf git-1.9.1.tar.gz
+	 $ cd git-1.9.1
+	 $ make configure
+	 $ ./configure --prefix=/usr
+	 $ make all doc info
+	 $ sudo make install install-doc install-html install-info
+	
+---
+Python
+	[PyWeekly]
+	[Books related]
+		&amp;lt;&amp;lt;Learning Python&amp;gt;&amp;gt;
+		&amp;lt;&amp;lt;Python Cookbook&amp;gt;&amp;gt;
+	[Python Trending Repositories](https://github.com/trending?l=python)
+---
+brew:
+	 echo &#39;export PATH=&quot;/usr/local/sbin:$PATH&quot;&#39; &amp;gt;&amp;gt; ~/.zshrc
+	 
+	 brew update
+	 brew upgrade
+	 brew doctor
+	 
+	 /Library/Caches/Homebrew
+	 /Library/Python/2.7/site-packages
+	 /usr/local/Cellar
+---
+gem:
+	change mirro
+	$ gem sources --remove https://rubygems.org/
+	$ gem sources -a https://ruby.taobao.org/
+	$ gem sources -l
+	 
+
+---
+MySQL相关
+
+---
+Resume
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;注⚠: 可以搜文档相关的 readthedocs.org&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 28 Jun 2015 00:00:00 +0800</pubDate>
+        <link>http://hellokuku.com/code/2015/06/28/30%E5%A4%A9%E8%AE%A1%E5%88%92.html</link>
+        <guid isPermaLink="true">http://hellokuku.com/code/2015/06/28/30%E5%A4%A9%E8%AE%A1%E5%88%92.html</guid>
+        
+        
+        <category>code</category>
+        
+      </item>
+    
+      <item>
+        <title>生活随记</title>
+        <description>&lt;p&gt;想想命运这么简单就改写了，如果当时坚持下去，我又会是如何的境况？是走向我所期望的学习生活，接近自己的梦想，亦或是走向了另一个极端？我不敢想，也无力再去想了。&lt;/p&gt;
+
+&lt;p&gt;从3月底回到家，我的学生生涯就结束了，或者我更想说校园的日子结束了。在生活工作方面，我更是一名新生。现在回过头来看，我多么后悔当时没有过早得做这个决定，为何不早些时候便退了学，选择复读？但当时的我又能承受得住这份压力吗？我所期望的生活到底是什么样子的？我究竟是为了自己的兴趣所向还是因为其他功利性因素选择做一些事或者 not&lt;/p&gt;
+
+&lt;p&gt;随着时间的流逝，越发感到时间的可贵。一个决策能够影响到人那么多的地方，甚至说一辈子的命运或许就改变了，本能遇到的一些有趣的人、事、物，一下子变成了幻影。&lt;/p&gt;
+
+&lt;p&gt;现在的我22岁，过了10月份的生日，我就23岁了(22周岁)。今天是9月3号，9月1号家里的新车上了牌照，下午回到家便又去了医院挂盐水，一连挂了2天，起因我想是因为8月29号的时候，凌晨2点多接到电话说爷爷病重，爸妈还有我赶赴医院。&lt;/p&gt;
+
+&lt;p&gt;现在的我，似乎又回到了起点，家里因家族矛盾引起的土地问题也在8月31日解决了(该问题后来发现还是未解决，这当然是后话了)，还是不谈谁受益了，谁又亏了，毕竟站的角度不同，但这一问题的解决，无疑给爸妈减轻了不少负担。&lt;/p&gt;
+
+&lt;p&gt;我现在所处的地方，正是我们一家四口最初的家，当时爸妈还没有计划扩建房子，从当时的照片看，日子不富裕，但却很开心，这也是一个四口之家应该有的景象吧。&lt;/p&gt;
+
+&lt;p&gt;随着城市的发展，这里改变了很多，虽说这旧房子还未拆，我此刻写字的桌子就是小学时候用的比较简易的书桌，也学鲁迅在桌子上刻了字，不过我刻得是“刻苦努力”四个大字，想来十分羞愧啊。&lt;/p&gt;
+
+&lt;p&gt;语言较混乱，我也不知道究竟该写点什么，太多还是青年人的臭毛病——无病呻吟罢了。想来我30岁又是如何景象？有无子女？过得是怎么样的生活，又是同何人分享这喜怒哀乐？&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Sep 2014 00:00:00 +0800</pubDate>
+        <link>http://hellokuku.com/life/2014/09/03/%E7%94%9F%E6%B4%BB%E9%9A%8F%E8%AE%B0.html</link>
+        <guid isPermaLink="true">http://hellokuku.com/life/2014/09/03/%E7%94%9F%E6%B4%BB%E9%9A%8F%E8%AE%B0.html</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+  </channel>
+</rss>

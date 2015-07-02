@@ -1,0 +1,108 @@
+---
+layout: post
+title: 30天计划
+date: 2015-06-28
+categories: code
+---
+
+7.1-8.1 需要完成
+
+
+	Linux
+		鸟哥的Linux私房菜1/2
+	HTTP
+		《HTTP权威指南》 
+	HTML/HTML5
+		《》
+	CSS
+		《》
+	JS
+		《》
+	Nginx
+		optional
+	---
+	
+	[Python框架-Zhihu](http://www.zhihu.com/topic/19606083)
+	Django
+		[Zhihu](http://www.zhihu.com/topic/19572108)
+		[Github](https://github.com/django/django)
+		[Django-Official](https://www.djangoproject.com/)
+		[Django-Doc-en](https://docs.djangoproject.com/en/1.8/topics/pagination/)
+	Flask
+		[Zhihu](http://www.zhihu.com/topic/19590215)
+		[Github](https://github.com/mitsuhiko/flask)
+		[Flask-Official](http://flask.pocoo.org/)
+		[Flask-Docs-cn](http://docs.jinkan.org/docs/flask/)
+	Scrapy
+		[Zhihu](http://www.zhihu.com/topic/19950086)
+		[Github](https://github.com/scrapy/scrapy)
+		[Scrapy-Official](http://scrapy.org/)
+		[Scrapy-Doc-cn](https://scrapy-chs.readthedocs.org/zh_CN/0.24/)
+		
+		#issue:
+			[link](http://stackoverflow.com/questions/30964836/scrapy-throws-importerror-cannot-import-name-xmlrpc-client)
+			when try to import scrapy...failed..
+			Scrapy throws ImportError: cannot import name xmlrpc_client
+			solution:
+				sudo rm -rf /Library/Python/2.7/site-packages/six*
+				sudo rm -rf /System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/six*
+				sudo pip install six
+			But try 'sudo pip install six --upgrade' failed...
+				
+	MySQL
+		[Zhihu](http://www.zhihu.com/topic/19554128)
+		[Github](https://github.com/mysql)
+		[MySQL-Official](http://dev.mysql.com/doc/)
+		[MySQL-Doc-cn](http://doc.mysql.cn/)
+	Git
+		[Git-explore](https://github.com/explore)
+		[Git-Doc-cn](https://git-scm.com/book/zh/v2)
+					(https://git-scm.com/book/zh/v1)
+		 
+		 install Git via source code
+		 $ tar -zxf git-1.9.1.tar.gz
+		 $ cd git-1.9.1
+		 $ make configure
+		 $ ./configure --prefix=/usr
+		 $ make all doc info
+		 $ sudo make install install-doc install-html install-info
+		
+	---
+	Python
+		[PyWeekly]
+		[Books related]
+			<<Learning Python>>
+			<<Python Cookbook>>
+		[Python Trending Repositories](https://github.com/trending?l=python)
+	---
+	brew:
+		 echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.zshrc
+		 
+		 brew update
+		 brew upgrade
+		 brew doctor
+		 
+		 /Library/Caches/Homebrew
+		 /Library/Python/2.7/site-packages
+		 /usr/local/Cellar
+	---
+	gem:
+		change mirro
+		$ gem sources --remove https://rubygems.org/
+		$ gem sources -a https://ruby.taobao.org/
+		$ gem sources -l
+		 
+	
+	---
+	MySQL相关
+	
+	---
+	Resume
+		
+		
+		
+		
+		
+注⚠: 可以搜文档相关的 readthedocs.org
+	
+	

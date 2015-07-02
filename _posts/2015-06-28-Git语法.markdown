@@ -1,0 +1,30 @@
+---
+layout: post
+title: Git语法
+date: 2015-06-28
+categories:code
+---
+
+1.Git语法
+
+
+	1.[LearnGitBranching](http://pcottle.github.io/learnGitBranching/)
+
+		1.Introduction Sequence
+		2.Ramping Up
+		3.Moving Work Around
+		4.A Mixed Bag
+		5.Advance Topics
+	
+2.Pycharm 
+
+
+	1	
+		1.1Pyhton版本选择
+			打开 File -> Settings -> Project Settings -> Python			Intercepter -> Python Intercepters 在 Paths 选项卡的列表中添加自定义的导入路径即可。
+		1.2[pycharm 如何添加自定义库路径?](https://www.v2ex.com/t/183690)	
+	
+	2.Pycharm Docs & Demos ***important
+		[Docs&Demo](https://www.jetbrains.com/pycharm/documentation/)
+	3.Pycoder Weekly
+		[Pycodeer-Weekly](http://pycoders.com/)
