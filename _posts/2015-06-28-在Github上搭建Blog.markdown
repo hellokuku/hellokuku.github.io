@@ -1,4 +1,9 @@
-在Github上搭建blog
+---
+layout: post
+title: 在Github上搭建Blog
+date: 2015-06-28
+categories: code
+---
 
 
 1.模版
@@ -29,7 +34,7 @@
 		*** CURRENT SOURCES ***
 
 		https://ruby.taobao.org
- 		-请确保只有 ruby.taobao.org
+		请确保只有 ruby.taobao.org
 				
 	3.2 Jekyll(http://jekyllrb.com/)
 		$ gem install jekyll 

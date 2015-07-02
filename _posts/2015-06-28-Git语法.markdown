@@ -2,7 +2,7 @@
 layout: post
 title: Git语法
 date: 2015-06-28
-categories:code
+categories: code
 ---
 
 1.Git语法

@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>理想丰满</title>
-  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-">
+  <title>在Github上搭建Blog</title>
+  <meta name="description" content="1.模版">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://hellokuku.com/">
+  <link rel="canonical" href="http://hellokuku.com/code/2015/06/28/%E5%9C%A8Github%E4%B8%8A%E6%90%AD%E5%BB%BABlog.html">
   <link rel="alternate" type="application/rss+xml" title="理想丰满" href="http://hellokuku.com/feed.xml" />
 </head>
 
@@ -55,55 +54,65 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <div class="post">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title">在Github上搭建Blog</h1>
+    <p class="post-meta">Jun 28, 2015</p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Jul 1, 2015</span>
+  <article class="post-content">
+    <p>1.模版</p>
 
-        <h2>
-          <a class="post-link" href="/life/2015/07/01/6%E6%9C%88%E6%9D%82%E8%B0%88.html">6月杂谈</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jun 28, 2015</span>
+<pre><code>[原始](https://github.com/waynezhang/blog.git)
 
-        <h2>
-          <a class="post-link" href="/code/2015/06/28/%E5%9C%A8Github%E4%B8%8A%E6%90%AD%E5%BB%BABlog.html">在Github上搭建Blog</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jun 28, 2015</span>
+[水渍](https://github.com/Ethanol)
 
-        <h2>
-          <a class="post-link" href="/code/2015/06/28/Git%E8%AF%AD%E6%B3%95.html">Git语法</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jun 28, 2015</span>
+[Blog](https://ethanol.github.com)
+</code></pre>
 
-        <h2>
-          <a class="post-link" href="/code/2015/06/28/30%E5%A4%A9%E8%AE%A1%E5%88%92.html">30天计划</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Sep 3, 2014</span>
+<p>2.DNS</p>
 
-        <h2>
-          <a class="post-link" href="/life/2014/09/03/%E7%94%9F%E6%B4%BB%E9%9A%8F%E8%AE%B0.html">生活随记</a>
-        </h2>
-      </li>
-    
-  </ul>
+<pre><code>[DNSPOD](https://www.dnspod.cn/Domain#jianwei.me)
 
-  <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
+[Godaddy](https://www.godaddy.com/)
+
+[域名解析](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
+
+[Github-Pages-Basic](https://help.github.com/categories/github-pages-basics/)
+</code></pre>
+
+<p>3.开始动手</p>
+
+<pre><code>3.1 切换RubyGems源(http://ruby.taobao.org/)
+	$ gem sources --remove https://rubygems.org/
+	$ gem sources -a https://ruby.taobao.org/
+	$ gem sources -l
+	*** CURRENT SOURCES ***
+
+	https://ruby.taobao.org
+	请确保只有 ruby.taobao.org
+			
+3.2 Jekyll(http://jekyllrb.com/)
+	$ gem install jekyll 
+	$ jekyll new blog-site
+	$ cd blog-site
+	$ jekyll serve
+
+3.3 Push
+	
+	$ git clone your-repositories
+	$ jekyll new blog
+	$ mv /blog/* .
+	$ git add .
+	$ git commit -m 'init'
+	$ git push
+	$ .........input your username &amp; password
+	Done!...
+</code></pre>
+
+
+  </article>
 
 </div>
 

@@ -6,8 +6,8 @@
 </description>
     <link>http://hellokuku.com/</link>
     <atom:link href="http://hellokuku.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jul 2015 20:34:01 +0800</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2015 20:34:01 +0800</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2015 20:41:10 +0800</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2015 20:41:10 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -40,6 +40,67 @@
       </item>
     
       <item>
+        <title>在Github上搭建Blog</title>
+        <description>&lt;p&gt;1.模版&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[原始](https://github.com/waynezhang/blog.git)
+
+[水渍](https://github.com/Ethanol)
+
+[Blog](https://ethanol.github.com)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;2.DNS&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[DNSPOD](https://www.dnspod.cn/Domain#jianwei.me)
+
+[Godaddy](https://www.godaddy.com/)
+
+[域名解析](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
+
+[Github-Pages-Basic](https://help.github.com/categories/github-pages-basics/)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;3.开始动手&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;3.1 切换RubyGems源(http://ruby.taobao.org/)
+	$ gem sources --remove https://rubygems.org/
+	$ gem sources -a https://ruby.taobao.org/
+	$ gem sources -l
+	*** CURRENT SOURCES ***
+
+	https://ruby.taobao.org
+	请确保只有 ruby.taobao.org
+			
+3.2 Jekyll(http://jekyllrb.com/)
+	$ gem install jekyll 
+	$ jekyll new blog-site
+	$ cd blog-site
+	$ jekyll serve
+
+3.3 Push
+	
+	$ git clone your-repositories
+	$ jekyll new blog
+	$ mv /blog/* .
+	$ git add .
+	$ git commit -m &#39;init&#39;
+	$ git push
+	$ .........input your username &amp;amp; password
+	Done!...
+&lt;/code&gt;&lt;/pre&gt;
+
+</description>
+        <pubDate>Sun, 28 Jun 2015 00:00:00 +0800</pubDate>
+        <link>http://hellokuku.com/code/2015/06/28/%E5%9C%A8Github%E4%B8%8A%E6%90%AD%E5%BB%BABlog.html</link>
+        <guid isPermaLink="true">http://hellokuku.com/code/2015/06/28/%E5%9C%A8Github%E4%B8%8A%E6%90%AD%E5%BB%BABlog.html</guid>
+        
+        
+        <category>code</category>
+        
+      </item>
+    
+      <item>
         <title>Git语法</title>
         <description>&lt;p&gt;1.Git语法&lt;/p&gt;
 
@@ -66,9 +127,11 @@
 &lt;/code&gt;&lt;/pre&gt;
 </description>
         <pubDate>Sun, 28 Jun 2015 00:00:00 +0800</pubDate>
-        <link>http://hellokuku.com/2015/06/28/Git%E8%AF%AD%E6%B3%95.html</link>
-        <guid isPermaLink="true">http://hellokuku.com/2015/06/28/Git%E8%AF%AD%E6%B3%95.html</guid>
+        <link>http://hellokuku.com/code/2015/06/28/Git%E8%AF%AD%E6%B3%95.html</link>
+        <guid isPermaLink="true">http://hellokuku.com/code/2015/06/28/Git%E8%AF%AD%E6%B3%95.html</guid>
         
+        
+        <category>code</category>
         
       </item>
     
