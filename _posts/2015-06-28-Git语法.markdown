@@ -19,10 +19,10 @@ categories: code
 2.Git-SSH
 	
 	ssh-keygen -t ras -C "youremail@mail.com"
-	![git-ssh-1](http://hellokuku.com/media/image/git-ssh-1.png)
+	![gitssh1](http://hellokuku.com/media/image/git-ssh-1.png)
 	把生成的id_ras.pub复制到 SSH Keys里面
 	ssh -T git@github.com 再认证一下
-	![git-ssh-2](http://hellokuku.com/media/image/git-ssh-2.png)
+	![gitssh2](http://hellokuku.com/media/image/git-ssh-2.png)
 	
 	
 3.Pycharm 
