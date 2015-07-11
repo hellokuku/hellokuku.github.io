@@ -15,8 +15,17 @@ categories: code
 		3.Moving Work Around
 		4.A Mixed Bag
 		5.Advance Topics
+		
+2.Git-SSH
 	
-2.Pycharm 
+	ssh-keygen -t ras -C "youremail@mail.com"
+	![git-ssh-1](../media/image/git-ssh-1.png)
+	把生成的id_ras.pub复制到 SSH Keys里面
+	ssh -T git@github.com 再认证一下
+	![git-ssh-2](../media/image/git-ssh-2.png)
+	
+	
+3.Pycharm 
 
 
 	1	
