@@ -1,3 +1,9 @@
+---
+layout: post
+title: Bundle install引发的小问题
+date: 2015-07-3
+categories: software
+---
 bundle install引发的小问题
 
 缘由:
