@@ -6,8 +6,8 @@
 </description>
     <link>http://hellokuku.com/</link>
     <atom:link href="http://hellokuku.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jul 2015 18:32:51 +0800</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2015 18:32:51 +0800</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2015 00:06:14 +0800</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2015 00:06:14 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -45,6 +45,11 @@ Homebrew 会将套件安装到独立目录(见上)，并将文件软链接至 /u
 所以当brew install 安装包下载不了的时候，可以直接本地安装，复制到cache目录下的homebrew目录
 &lt;/code&gt;&lt;/pre&gt;
 
+&lt;p&gt;4.Sqlmap&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* To-do
+&lt;/code&gt;&lt;/pre&gt;
+
 &lt;h3 id=&quot;to-do&quot;&gt;To-do&lt;/h3&gt;
 
 </description>
@@ -58,7 +63,7 @@ Homebrew 会将套件安装到独立目录(见上)，并将文件软链接至 /u
       </item>
     
       <item>
-        <title>Bundle Issue</title>
+        <title>Bundle install引发的小问题</title>
         <description>&lt;p&gt;bundle install引发的小问题&lt;/p&gt;
 
 &lt;p&gt;缘由:
@@ -90,9 +95,11 @@ Homebrew 会将套件安装到独立目录(见上)，并将文件软链接至 /u
 &lt;/ol&gt;
 </description>
         <pubDate>Fri, 03 Jul 2015 00:00:00 +0800</pubDate>
-        <link>http://hellokuku.com/2015/07/03/Bundle-issue.html</link>
-        <guid isPermaLink="true">http://hellokuku.com/2015/07/03/Bundle-issue.html</guid>
+        <link>http://hellokuku.com/software/2015/07/03/Bundle-issue.html</link>
+        <guid isPermaLink="true">http://hellokuku.com/software/2015/07/03/Bundle-issue.html</guid>
         
+        
+        <category>software</category>
         
       </item>
     
@@ -201,10 +208,11 @@ Homebrew 会将套件安装到独立目录(见上)，并将文件软链接至 /u
 
 &lt;p&gt;2.Git-SSH&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;ssh-keygen -t ras -C &quot;youremail@mail.com&quot; ![gitssh1](http://hellokuku.com/media/image/git-ssh-1.png)
-
+&lt;pre&gt;&lt;code&gt;ssh-keygen -t ras -C &quot;youremail@mail.com&quot;
+![gitssh1](http://hellokuku.com/media/image/git-ssh-1.png)	
 把生成的id_ras.pub复制到 SSH Keys里面
-ssh -T git@github.com 再认证一下 ![gitssh2](http://hellokuku.com/media/image/git-ssh-2.png)
+ssh -T git@github.com 再认证一下
+![gitssh2](http://hellokuku.com/media/image/git-ssh-2.png)
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;3.Pycharm&lt;/p&gt;
